@@ -1,0 +1,50 @@
+# Business Sales Performance Analytics
+
+## Project Overview
+
+This project analyzes business sales data to identify revenue trends, top-performing products, profitable categories, and regional performance.
+
+## Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Dashboard Design
+
+## Key KPIs
+
+* Total Sales
+* Total Profit
+* Total Orders
+* Total Quantity Sold
+
+## Analysis Performed
+
+* Sales Trend Analysis
+* Sales by Category
+* Sales by Region
+* Profit by Category
+* Profit by Region
+* Top 10 Products by Sales
+* Discount vs Profit Analysis
+* Top 5 Customers Analysis
+
+## Key Insights
+
+* Technology generated the highest sales and profit.
+* West region was the strongest-performing region.
+* High discounts reduced profitability.
+* A small number of customers contributed a significant share of revenue.
+
+## Recommendations
+
+* Focus on high-profit categories.
+* Improve performance in weaker regions.
+* Optimize discount strategies.
+* Strengthen relationships with top customers.
+
+## Author
+
+Dhanusha Allada
+B.Tech Cyber Security
+Pragati Engineering College

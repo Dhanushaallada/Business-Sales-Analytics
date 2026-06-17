@@ -1,0 +1,67 @@
+BUSINESS SALES PERFORMANCE ANALYTICS
+
+KEY INSIGHTS
+
+1. Sales by Category
+
+* Technology generated the highest sales revenue (₹839,893).
+* Furniture generated sales of ₹754,748.
+* Office Supplies generated sales of ₹731,893.
+
+Recommendation:
+Focus marketing and inventory planning on Technology products to maximize revenue growth.
+
+2. Profit by Category
+
+* Technology generated the highest profit (₹146,543).
+* Office Supplies generated a profit of ₹126,023.
+* Furniture generated the lowest profit (₹19,730).
+
+Recommendation:
+Increase focus on Technology products and review the profitability of Furniture products.
+
+3. Sales by Region
+
+* West region generated the highest sales (₹739,814).
+* East region generated sales of ₹691,828.
+* South region generated the lowest sales (₹391,722).
+
+Recommendation:
+Investigate opportunities to improve sales performance in the South region.
+
+4. Profit by Region
+
+* West region generated the highest profit (₹110,799).
+* East region generated a profit of ₹94,883.
+* Central region generated the lowest profit (₹39,865).
+
+Recommendation:
+Apply successful sales strategies from the West region to lower-performing regions.
+
+5. Top Selling Products
+
+* Canon imageCLASS 2200 Advanced Copier was the highest revenue-generating product.
+* A small number of products contributed a large share of total revenue.
+
+Recommendation:
+Prioritize high-performing products in promotions and inventory management.
+
+6. Discount vs Profit Analysis
+
+* Higher discounts (30%, 40%, 50%, 70%, and 80%) resulted in negative profits.
+* Excessive discounting reduced overall profitability.
+
+Recommendation:
+Implement a controlled discount strategy to protect profit margins.
+
+7. Top Customers Analysis
+
+* Sean Miller was the highest revenue-generating customer (₹25,043).
+* Tamara Chand and Raymond Buch were also among the top customers.
+
+Recommendation:
+Develop loyalty programs and personalized offers for high-value customers.
+
+CONCLUSION
+
+Technology products and the West region are the strongest contributors to business performance. The company should focus on profitable products, strengthen customer retention, and optimize discount policies to improve long-term growth and profitability.
